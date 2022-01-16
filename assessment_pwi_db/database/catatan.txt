@@ -1,0 +1,5 @@
+
+member : no int, nim char(10), nama varchar(50), kelas char(8), semester char(1), no.wa varchar(12), foto longblob/image
+mentor : no int,  no_id char(10), nama varchar(50), no.wa varchar(12), foto longblob/image
+class : no int, class_id int, nama_bidang varchar(30), jadwal varchar(30)
+pelajaran : no int, judul varchar(50), media longbob, artikel varchar(1024)
